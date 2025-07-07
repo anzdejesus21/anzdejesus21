@@ -26,5 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="54"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="54"/>
 </p>
-
-![github-user-contribution](https://github.com/user-attachments/assets/10c7eb9c-7a08-41bb-8b72-cb9c4cfe68a6)
